@@ -15,7 +15,11 @@ A windows GUI is also built to make it easier to use.
 Folder structure:
 
 /Arduino/HVPP-Configurator => Source code of firmware for Arduino IDE
+
 /Firmware                  => Pre-compiled firmware for ATMEGA8/168/328 (Intel HEX format)
+
 /GUI/Source Code           => Source of Windows GUI
+
 /GUI/Binary                => Pre-compiled Windows Desktop Application (Require .NET 4.0)
+
 /Schematic                 => Schematics for the project
