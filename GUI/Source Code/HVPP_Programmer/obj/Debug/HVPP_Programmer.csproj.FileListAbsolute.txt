@@ -1,0 +1,18 @@
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\bin\Debug\HVPP_Programmer.exe
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\bin\Debug\HVPP_Programmer.pdb
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.csprojResolveAssemblyReference.cache
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.frmMain.resources
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.Properties.Resources.resources
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.csproj.GenerateResource.cache
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.csproj.CoreCompileInputs.cache
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.exe
+D:\Works\Visual Studio\App\HVPP_Programmer\HVPP_Programmer\obj\Debug\HVPP_Programmer.pdb
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\bin\Debug\AVR HVPP Configurator GUI.exe
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\bin\Debug\AVR HVPP Configurator GUI.pdb
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\HVPP_Programmer.csprojResolveAssemblyReference.cache
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\HVPP_Programmer.frmMain.resources
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\HVPP_Programmer.Properties.Resources.resources
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\HVPP_Programmer.csproj.GenerateResource.cache
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\HVPP_Programmer.csproj.CoreCompileInputs.cache
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\AVR HVPP Configurator GUI.exe
+D:\Works\Visual Studio\App\HVPP_Programmer_Fuse\HVPP_Programmer\obj\Debug\AVR HVPP Configurator GUI.pdb
