@@ -68,14 +68,14 @@ GNU Public License V3.0
 #define XTAL1  9
 #define RST    A4
 #define VCC    A5
-#define DATA0  10
-#define DATA1  11
-#define DATA2  12
-#define DATA3  13
-#define DATA4  A0
-#define DATA5  A1
-#define DATA6  A2
-#define DATA7  A3
+#define DATA7  10
+#define DATA6  11
+#define DATA5  12
+#define DATA4  13
+#define DATA3  A0
+#define DATA2  A1
+#define DATA1  A2
+#define DATA0  A3
 
 String inStr = ""; // Command and parameter received from serial port
 int cmd = -1;      // Command number
